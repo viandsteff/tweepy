@@ -1,0 +1,3 @@
+import anyar
+
+anyar.hasil
